@@ -1,2 +1,2 @@
 # onlyy-blog
-Personal blog with vue3.
+Personal blog-sys with vue3.
